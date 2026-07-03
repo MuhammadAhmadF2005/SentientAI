@@ -4,6 +4,17 @@ This repository contains a basic data analysis of the Online Retail transaction 
 
 ---
 
+## Dataset
+
+Due to its size (approx. 23.7 MB), the dataset `Online Retail.xlsx` is excluded from Git tracking via `.gitignore`. 
+
+To run the analysis locally, you must download the dataset file and place it directly in the root directory of this project:
+* **Direct Download Link:** [Online Retail.xlsx (Direct Download)](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx)
+* **Dataset Repository Page:** [UCI Machine Learning Repository - Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
+
+---
+
+
 ## Setup and Run Instructions
 
 This project runs inside a custom Python virtual environment (`.venv`) containing pandas, numpy, matplotlib, and seaborn.
