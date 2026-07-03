@@ -1,10 +1,7 @@
 pandas
 openpyxl
 numpy
-scikit-learn
-plotly
 matplotlib
 seaborn
 ipykernel
 notebook
-ipywidgets
