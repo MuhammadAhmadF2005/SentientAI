@@ -1,5 +1,7 @@
 # Data files
 Online Retail.xlsx
+online_retail.csv
+
 
 # Virtual environments
 .venv/
@@ -15,3 +17,7 @@ env/
 __pycache__/
 *.py[cod]
 *$py.class
+
+#misc files
+fix.py
+fix2.py
