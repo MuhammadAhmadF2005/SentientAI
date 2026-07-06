@@ -1,5 +1,4 @@
-# Data files (too large for git)
-Online Retail.xlsx
+# Data files (too large for git — use online_retail.csv locally)
 online_retail.csv
 
 # Virtual environments
