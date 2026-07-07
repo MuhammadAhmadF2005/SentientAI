@@ -1,0 +1,35 @@
+Category,Topic,Duration
+Python basics,Data structures,4-5 days
+Python basics,Algorithms,4-5 days
+Python basics,Error handling,4-5 days
+Python basics,File Handling,4-5 days
+Python basics,OOP,4-5 days
+Py libraries,Why we use them,1 week
+Py libraries,Syntax basic,1 week
+Py libraries,Error Handling,1 week
+DS,What is Data and its types,1week
+DS,Data preprocessing,1week
+DS,Data cleaning,1week
+DS,Data Profiling,1week
+DS,Feature Engineering,1week
+DS,EDA,1week
+DS,AB testing,1week
+ML,what is ML,1week
+ML,ML models,1week
+ML,"regression, trees, clustering",1week
+ML,Models as per problem,1week
+DL,What is DL,2weeks
+DL,ML vs DL,2weeks
+DL,"perceptron, ANN",2weeks
+DL,"DNN, RNN, CNN",2weeks
+DL,"LSTM, GRU",2weeks
+DL,fully connected layers,2weeks
+DL,regularization,2weeks
+DL,Activation Functions,2weeks
+DL,"overfitting, underfitting",2weeks
+Transformers,Why we need em,??
+Transformers,Attention is all you need,??
+Transformers,Usage,??
+Transformers,Tuning,??
+Transformers,"LORA, QLORA",??
+GenAI,,??
