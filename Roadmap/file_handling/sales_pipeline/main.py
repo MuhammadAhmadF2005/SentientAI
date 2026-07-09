@@ -2,7 +2,7 @@ import io
 import pathlib
 from typing import List
 from fastapi import FastAPI, UploadFile, File, HTTPException
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, RedirectResponse
 import pandas as pd
 
 from cleaner import clean_dataframe
@@ -18,6 +18,10 @@ app = FastAPI(
 BASE_DIR = pathlib.Path(__file__).parent.resolve()
 UPLOAD_DIR = BASE_DIR / "uploads"
 OUTPUT_DIR = BASE_DIR / "outputs"
+
+@app.get("/", include_in_schema=False)
+async def root():
+    return RedirectResponse(url="/docs")
 
 @app.post("/upload", summary="Upload multiple regional CSV files")
 async def upload_files(files: List[UploadFile] = File(...)):
