@@ -1,6 +1,6 @@
 # Online Retail Sales and Customer Analysis
 
-This repository contains a basic data analysis of the Online Retail transaction dataset. The analysis is presented in a Jupyter Notebook: `level1.ipynb`.
+This repository contains a basic data analysis of the Online Retail transaction dataset. The analysis is presented in a Jupyter Notebook: [level1_customer_analysis.ipynb](file:///c:/Users/HP/Desktop/sentientAI/Roadmap/3_Data_Science/level1_customer_analysis.ipynb).
 
 ---
 
@@ -47,7 +47,7 @@ To start the notebook interface:
 ```powershell
 .venv\Scripts\jupyter notebook
 ```
-Then select and run `level1.ipynb`. Make sure you use the registered `sentient_ds` kernel (displayed as "Python (sentient_ds)" in the notebook interface) which maps to this virtual environment.
+Then select and run [level1_customer_analysis.ipynb](file:///c:/Users/HP/Desktop/sentientAI/Roadmap/3_Data_Science/level1_customer_analysis.ipynb). Make sure you use the registered `sentient_ds` kernel (displayed as "Python (sentient_ds)" in the notebook interface) which maps to this virtual environment.
 
 ---
 
