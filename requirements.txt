@@ -6,3 +6,6 @@ seaborn
 ipykernel
 notebook
 ydata-profiling
+scikit-learn
+xgboost
+lightgbm
