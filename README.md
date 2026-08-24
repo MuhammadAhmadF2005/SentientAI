@@ -244,7 +244,7 @@ Navigate to `http://127.0.0.1:8000/docs` to interact with the OpenAPI/Swagger sp
 | **3** | **Statistical Data Science** | EDA, PCA dimensionality reduction, SVM classifiers, RFM analytics, YData profiling | Completed |
 | **4** | **Machine Learning** | KNN, K-Means, DBSCAN, AdaBoost, XGBoost, LightGBM, Churn modeling pipelines | Completed |
 | **5** | **Deep Learning** | ANNs, CNNs, RNNs, LSTMs, Physics-Informed Neural Networks, Transformers | Completed |
-| **6** | **Generative AI & LLMs** | Fine-tuning, Parameter-Efficient Fine-Tuning (LoRA / QLoRA), Retrieval-Augmented Generation | In Progress |
+| **6** | **Generative AI & LLMs** | Fine-tuning, Parameter-Efficient Fine-Tuning (LoRA / QLoRA), Retrieval-Augmented Generation | Completed |
 
 ---
 
